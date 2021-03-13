@@ -1,0 +1,16 @@
+{
+  "name": "botzin",
+  "version": "1.0.0",
+  "main": "./src/bot.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Only_bielzin",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^12.4.1",
+    "firebase": "^8.3.0",
+    "node-fetch": "^2.6.1"
+  }
+}
